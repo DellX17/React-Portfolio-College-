@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ff6a638.css",
+    "main.js": "/static/js/main.eb55d697.js",
+    "static/media/monosas.png": "/static/media/monosas.b096c2aea0e646b378b0.png",
+    "static/media/cv.png": "/static/media/cv.70e5ed0625e746826e1c.png",
+    "static/media/monosas2.jpg": "/static/media/monosas2.511459bf1cbefa8cdf65.jpg",
+    "index.html": "/index.html",
+    "main.2ff6a638.css.map": "/static/css/main.2ff6a638.css.map",
+    "main.eb55d697.js.map": "/static/js/main.eb55d697.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ff6a638.css",
+    "static/js/main.eb55d697.js"
+  ]
+}
